@@ -1,0 +1,3032 @@
+[
+  {
+    "id": "3128390",
+    "name": "Aaron Rodgers",
+    "team": "Pittsburgh Steelers",
+    "position": "QB"
+  },
+  {
+    "id": "5000332",
+    "name": "Aidan O'Connell",
+    "team": "Las Vegas Raiders",
+    "position": "QB"
+  },
+  {
+    "id": "4362887",
+    "name": "Anthony Richardson",
+    "team": "Indianapolis Colts",
+    "position": "QB"
+  },
+  {
+    "id": "5000018",
+    "name": "Baker Mayfield",
+    "team": "Tampa Bay Buccaneers",
+    "position": "QB"
+  },
+  {
+    "id": "4567893",
+    "name": "Bo Nix",
+    "team": "Denver Broncos",
+    "position": "QB"
+  },
+  {
+    "id": "5000032",
+    "name": "Brock Purdy",
+    "team": "San Francisco 49ers",
+    "position": "QB"
+  },
+  {
+    "id": "5000062",
+    "name": "Bryce Young",
+    "team": "Carolina Panthers",
+    "position": "QB"
+  },
+  {
+    "id": "5000044",
+    "name": "CJ Stroud",
+    "team": "Houston Texans",
+    "position": "QB"
+  },
+  {
+    "id": "4567890",
+    "name": "Caleb Williams",
+    "team": "Chicago Bears",
+    "position": "QB"
+  },
+  {
+    "id": "5000102",
+    "name": "Cameron Ward",
+    "team": "Tennessee Titans",
+    "position": "QB"
+  },
+  {
+    "id": "5000408",
+    "name": "Cooper Rush",
+    "team": "Baltimore Ravens",
+    "position": "QB"
+  },
+  {
+    "id": "4040715",
+    "name": "Dak Prescott",
+    "team": "Dallas Cowboys",
+    "position": "QB"
+  },
+  {
+    "id": "4241479",
+    "name": "Daniel Jones",
+    "team": "Indianapolis Colts",
+    "position": "QB"
+  },
+  {
+    "id": "5000329",
+    "name": "Deshaun Watson",
+    "team": "Cleveland Browns",
+    "position": "QB"
+  },
+  {
+    "id": "5000290",
+    "name": "Dillon Gabriel",
+    "team": "Cleveland Browns",
+    "position": "QB"
+  },
+  {
+    "id": "4567892",
+    "name": "Drake Maye",
+    "team": "New England Patriots",
+    "position": "QB"
+  },
+  {
+    "id": "5000372",
+    "name": "Gardner Minshew",
+    "team": "Kansas City Chiefs",
+    "position": "QB"
+  },
+  {
+    "id": "5000074",
+    "name": "Geno Smith",
+    "team": "Las Vegas Raiders",
+    "position": "QB"
+  },
+  {
+    "id": "5000053",
+    "name": "JJ McCarthy",
+    "team": "Minnesota Vikings",
+    "position": "QB"
+  },
+  {
+    "id": "5000402",
+    "name": "Jake Browning",
+    "team": "Cincinnati Bengals",
+    "position": "QB"
+  },
+  {
+    "id": "4035687",
+    "name": "Jalen Hurts",
+    "team": "Philadelphia Eagles",
+    "position": "QB"
+  },
+  {
+    "id": "5000250",
+    "name": "Jalen Milroe",
+    "team": "Seattle Seahawks",
+    "position": "QB"
+  },
+  {
+    "id": "5000281",
+    "name": "Jameis Winston",
+    "team": "New York Giants",
+    "position": "QB"
+  },
+  {
+    "id": "5000038",
+    "name": "Jared Goff",
+    "team": "Detroit Lions",
+    "position": "QB"
+  },
+  {
+    "id": "5000207",
+    "name": "Jaxson Dart",
+    "team": "New York Giants",
+    "position": "QB"
+  },
+  {
+    "id": "4567891",
+    "name": "Jayden Daniels",
+    "team": "Washington Commanders",
+    "position": "QB"
+  },
+  {
+    "id": "5000400",
+    "name": "Jimmy Garoppolo",
+    "team": "Los Angeles Rams",
+    "position": "QB"
+  },
+  {
+    "id": "4361259",
+    "name": "Joe Burrow",
+    "team": "Cincinnati Bengals",
+    "position": "QB"
+  },
+  {
+    "id": "5000198",
+    "name": "Joe Flacco",
+    "team": "Cleveland Browns",
+    "position": "QB"
+  },
+  {
+    "id": "5000324",
+    "name": "Joe Milton",
+    "team": "Dallas Cowboys",
+    "position": "QB"
+  },
+  {
+    "id": "5000041",
+    "name": "Jordan Love",
+    "team": "Green Bay Packers",
+    "position": "QB"
+  },
+  {
+    "id": "4046664",
+    "name": "Josh Allen",
+    "team": "Buffalo Bills",
+    "position": "QB"
+  },
+  {
+    "id": "5000030",
+    "name": "Justin Fields",
+    "team": "New York Jets",
+    "position": "QB"
+  },
+  {
+    "id": "4362628",
+    "name": "Justin Herbert",
+    "team": "Los Angeles Chargers",
+    "position": "QB"
+  },
+  {
+    "id": "5000282",
+    "name": "Kenny Pickett",
+    "team": "Cleveland Browns",
+    "position": "QB"
+  },
+  {
+    "id": "4040001",
+    "name": "Kirk Cousins",
+    "team": "Atlanta Falcons",
+    "position": "QB"
+  },
+  {
+    "id": "5000410",
+    "name": "Kyle Trask",
+    "team": "Tampa Bay Buccaneers",
+    "position": "QB"
+  },
+  {
+    "id": "5000024",
+    "name": "Kyler Murray",
+    "team": "Arizona Cardinals",
+    "position": "QB"
+  },
+  {
+    "id": "3139477",
+    "name": "Lamar Jackson",
+    "team": "Baltimore Ravens",
+    "position": "QB"
+  },
+  {
+    "id": "5000395",
+    "name": "Mac Jones",
+    "team": "San Francisco 49ers",
+    "position": "QB"
+  },
+  {
+    "id": "5000368",
+    "name": "Malik Willis",
+    "team": "Green Bay Packers",
+    "position": "QB"
+  },
+  {
+    "id": "5000362",
+    "name": "Marcus Mariota",
+    "team": "Washington Commanders",
+    "position": "QB"
+  },
+  {
+    "id": "5000319",
+    "name": "Mason Rudolph",
+    "team": "Pittsburgh Steelers",
+    "position": "QB"
+  },
+  {
+    "id": "5000056",
+    "name": "Matthew Stafford",
+    "team": "Los Angeles Rams",
+    "position": "QB"
+  },
+  {
+    "id": "5000068",
+    "name": "Michael Penix",
+    "team": "Atlanta Falcons",
+    "position": "QB"
+  },
+  {
+    "id": "3916387",
+    "name": "Patrick Mahomes",
+    "team": "Kansas City Chiefs",
+    "position": "QB"
+  },
+  {
+    "id": "16757",
+    "name": "Russell Wilson",
+    "team": "New York Giants",
+    "position": "QB"
+  },
+  {
+    "id": "5000091",
+    "name": "Sam Darnold",
+    "team": "Seattle Seahawks",
+    "position": "QB"
+  },
+  {
+    "id": "5000381",
+    "name": "Sam Howell",
+    "team": "Minnesota Vikings",
+    "position": "QB"
+  },
+  {
+    "id": "5000237",
+    "name": "Shedeur Sanders",
+    "team": "Cleveland Browns",
+    "position": "QB"
+  },
+  {
+    "id": "5000276",
+    "name": "Spencer Rattler",
+    "team": "New Orleans Saints",
+    "position": "QB"
+  },
+  {
+    "id": "5000404",
+    "name": "Taylor Heinicke",
+    "team": "Los Angeles Chargers",
+    "position": "QB"
+  },
+  {
+    "id": "4259900",
+    "name": "Trevor Lawrence",
+    "team": "Jacksonville Jaguars",
+    "position": "QB"
+  },
+  {
+    "id": "4262921",
+    "name": "Tua Tagovailoa",
+    "team": "Miami Dolphins",
+    "position": "QB"
+  },
+  {
+    "id": "5000193",
+    "name": "Tyler Shough",
+    "team": "New Orleans Saints",
+    "position": "QB"
+  },
+  {
+    "id": "5000240",
+    "name": "Tyrod Taylor",
+    "team": "New York Jets",
+    "position": "QB"
+  },
+  {
+    "id": "5000337",
+    "name": "Will Howard",
+    "team": "Pittsburgh Steelers",
+    "position": "QB"
+  },
+  {
+    "id": "5000360",
+    "name": "Zach Wilson",
+    "team": "Miami Dolphins",
+    "position": "QB"
+  },
+  {
+    "id": "5000253",
+    "name": "AJ Dillon",
+    "team": "Philadelphia Eagles",
+    "position": "RB"
+  },
+  {
+    "id": "5000019",
+    "name": "Aaron Jones",
+    "team": "Minnesota Vikings",
+    "position": "RB"
+  },
+  {
+    "id": "5000340",
+    "name": "Alec Ingold",
+    "team": "Miami Dolphins",
+    "position": "RB"
+  },
+  {
+    "id": "5000213",
+    "name": "Alexander Mattison",
+    "team": "Miami Dolphins",
+    "position": "RB"
+  },
+  {
+    "id": "4241389",
+    "name": "Alvin Kamara",
+    "team": "New Orleans Saints",
+    "position": "RB"
+  },
+  {
+    "id": "5000297",
+    "name": "Ameer Abdullah",
+    "team": "San Francisco 49ers",
+    "position": "RB"
+  },
+  {
+    "id": "5000178",
+    "name": "Antonio Gibson",
+    "team": "New England Patriots",
+    "position": "RB"
+  },
+  {
+    "id": "5000001",
+    "name": "Ashton Jeanty",
+    "team": "Las Vegas Raiders",
+    "position": "RB"
+  },
+  {
+    "id": "5000171",
+    "name": "Audric Estime",
+    "team": "Denver Broncos",
+    "position": "RB"
+  },
+  {
+    "id": "3040151",
+    "name": "Austin Ekeler",
+    "team": "Washington Commanders",
+    "position": "RB"
+  },
+  {
+    "id": "5000086",
+    "name": "Bhayshul Tuten",
+    "team": "Jacksonville Jaguars",
+    "position": "RB"
+  },
+  {
+    "id": "4567048",
+    "name": "Bijan Robinson",
+    "team": "Atlanta Falcons",
+    "position": "RB"
+  },
+  {
+    "id": "5000107",
+    "name": "Blake Corum",
+    "team": "Los Angeles Rams",
+    "position": "RB"
+  },
+  {
+    "id": "5000081",
+    "name": "Braelon Allen",
+    "team": "New York Jets",
+    "position": "RB"
+  },
+  {
+    "id": "5000175",
+    "name": "Brashard Smith",
+    "team": "Kansas City Chiefs",
+    "position": "RB"
+  },
+  {
+    "id": "5000007",
+    "name": "Breece Hall",
+    "team": "New York Jets",
+    "position": "RB"
+  },
+  {
+    "id": "5000028",
+    "name": "Brian Robinson",
+    "team": "Washington Commanders",
+    "position": "RB"
+  },
+  {
+    "id": "5000005",
+    "name": "Bucky Irving",
+    "team": "Tampa Bay Buccaneers",
+    "position": "RB"
+  },
+  {
+    "id": "5000363",
+    "name": "CJ Ham",
+    "team": "Minnesota Vikings",
+    "position": "RB"
+  },
+  {
+    "id": "5000259",
+    "name": "Cam Akers",
+    "team": "New Orleans Saints",
+    "position": "RB"
+  },
+  {
+    "id": "5000048",
+    "name": "Cam Skattebo",
+    "team": "New York Giants",
+    "position": "RB"
+  },
+  {
+    "id": "5000374",
+    "name": "Carson Steele",
+    "team": "Kansas City Chiefs",
+    "position": "RB"
+  },
+  {
+    "id": "5000004",
+    "name": "Chase Brown",
+    "team": "Cincinnati Bengals",
+    "position": "RB"
+  },
+  {
+    "id": "5000233",
+    "name": "Chris Brooks",
+    "team": "Green Bay Packers",
+    "position": "RB"
+  },
+  {
+    "id": "5000245",
+    "name": "Chris Rodriguez",
+    "team": "Washington Commanders",
+    "position": "RB"
+  },
+  {
+    "id": "5000347",
+    "name": "Chris Tyree",
+    "team": "New Orleans Saints",
+    "position": "RB"
+  },
+  {
+    "id": "3051392",
+    "name": "Christian McCaffrey",
+    "team": "San Francisco 49ers",
+    "position": "RB"
+  },
+  {
+    "id": "5000010",
+    "name": "Chuba Hubbard",
+    "team": "Carolina Panthers",
+    "position": "RB"
+  },
+  {
+    "id": "5000349",
+    "name": "Clyde Edwards-Helaire",
+    "team": "New Orleans Saints",
+    "position": "RB"
+  },
+  {
+    "id": "5000338",
+    "name": "Cordarrelle Patterson",
+    "team": "FA",
+    "position": "RB"
+  },
+  {
+    "id": "5000317",
+    "name": "Craig Reynolds",
+    "team": "Detroit Lions",
+    "position": "RB"
+  },
+  {
+    "id": "4567901",
+    "name": "D'Andre Swift",
+    "team": "Chicago Bears",
+    "position": "RB"
+  },
+  {
+    "id": "5000333",
+    "name": "D'Ernest Johnson",
+    "team": "FA",
+    "position": "RB"
+  },
+  {
+    "id": "5000145",
+    "name": "DJ Giddens",
+    "team": "Indianapolis Colts",
+    "position": "RB"
+  },
+  {
+    "id": "5000208",
+    "name": "Dameon Pierce",
+    "team": "Houston Texans",
+    "position": "RB"
+  },
+  {
+    "id": "5000219",
+    "name": "Damien Martinez",
+    "team": "Seattle Seahawks",
+    "position": "RB"
+  },
+  {
+    "id": "5000377",
+    "name": "Dare Ogunbowale",
+    "team": "Houston Texans",
+    "position": "RB"
+  },
+  {
+    "id": "5000016",
+    "name": "David Montgomery",
+    "team": "Detroit Lions",
+    "position": "RB"
+  },
+  {
+    "id": "4567894",
+    "name": "De'Von Achane",
+    "team": "Miami Dolphins",
+    "position": "RB"
+  },
+  {
+    "id": "5000397",
+    "name": "DeeJay Dallas",
+    "team": "Arizona Cardinals",
+    "position": "RB"
+  },
+  {
+    "id": "4036378",
+    "name": "Derrick Henry",
+    "team": "Baltimore Ravens",
+    "position": "RB"
+  },
+  {
+    "id": "5000361",
+    "name": "Deuce Vaughn",
+    "team": "Dallas Cowboys",
+    "position": "RB"
+  },
+  {
+    "id": "5000152",
+    "name": "Devin Neal",
+    "team": "New Orleans Saints",
+    "position": "RB"
+  },
+  {
+    "id": "5000185",
+    "name": "Devin Singletary",
+    "team": "New York Giants",
+    "position": "RB"
+  },
+  {
+    "id": "5000273",
+    "name": "Donovan Edwards",
+    "team": "New York Jets",
+    "position": "RB"
+  },
+  {
+    "id": "5000407",
+    "name": "Dylan Laube",
+    "team": "Las Vegas Raiders",
+    "position": "RB"
+  },
+  {
+    "id": "5000099",
+    "name": "Dylan Sampson",
+    "team": "Cleveland Browns",
+    "position": "RB"
+  },
+  {
+    "id": "5000165",
+    "name": "Elijah Mitchell",
+    "team": "Kansas City Chiefs",
+    "position": "RB"
+  },
+  {
+    "id": "5000228",
+    "name": "Emanuel Wilson",
+    "team": "Green Bay Packers",
+    "position": "RB"
+  },
+  {
+    "id": "5000296",
+    "name": "Emari Demercado",
+    "team": "Arizona Cardinals",
+    "position": "RB"
+  },
+  {
+    "id": "5000416",
+    "name": "Eric Gray",
+    "team": "New York Giants",
+    "position": "RB"
+  },
+  {
+    "id": "5000390",
+    "name": "Ezekiel Elliott",
+    "team": "FA",
+    "position": "RB"
+  },
+  {
+    "id": "5000252",
+    "name": "Gus Edwards",
+    "team": "FA",
+    "position": "RB"
+  },
+  {
+    "id": "5000393",
+    "name": "Hassan Haskins",
+    "team": "Los Angeles Chargers",
+    "position": "RB"
+  },
+  {
+    "id": "5000342",
+    "name": "Hunter Luepke",
+    "team": "Dallas Cowboys",
+    "position": "RB"
+  },
+  {
+    "id": "5000078",
+    "name": "Isaac Guerendo",
+    "team": "San Francisco 49ers",
+    "position": "RB"
+  },
+  {
+    "id": "5000200",
+    "name": "Isaiah Davis",
+    "team": "New York Jets",
+    "position": "RB"
+  },
+  {
+    "id": "4567898",
+    "name": "Isiah Pacheco",
+    "team": "Kansas City Chiefs",
+    "position": "RB"
+  },
+  {
+    "id": "5000061",
+    "name": "JK Dobbins",
+    "team": "Denver Broncos",
+    "position": "RB"
+  },
+  {
+    "id": "5000308",
+    "name": "Ja'Quinden Jackson",
+    "team": "Jacksonville Jaguars",
+    "position": "RB"
+  },
+  {
+    "id": "5000230",
+    "name": "Jacory Croskey-Merritt",
+    "team": "Washington Commanders",
+    "position": "RB"
+  },
+  {
+    "id": "4567625",
+    "name": "Jahmyr Gibbs",
+    "team": "Detroit Lions",
+    "position": "RB"
+  },
+  {
+    "id": "5000144",
+    "name": "Jaleel McLaughlin",
+    "team": "Denver Broncos",
+    "position": "RB"
+  },
+  {
+    "id": "5000011",
+    "name": "James Conner",
+    "team": "Arizona Cardinals",
+    "position": "RB"
+  },
+  {
+    "id": "4567897",
+    "name": "James Cook",
+    "team": "Buffalo Bills",
+    "position": "RB"
+  },
+  {
+    "id": "5000183",
+    "name": "Jarquez Hunter",
+    "team": "Los Angeles Rams",
+    "position": "RB"
+  },
+  {
+    "id": "4241391",
+    "name": "Javonte Williams",
+    "team": "Dallas Cowboys",
+    "position": "RB"
+  },
+  {
+    "id": "5000380",
+    "name": "Jaydn Ott",
+    "team": "FA",
+    "position": "RB"
+  },
+  {
+    "id": "5000093",
+    "name": "Jaydon Blue",
+    "team": "Dallas Cowboys",
+    "position": "RB"
+  },
+  {
+    "id": "5000031",
+    "name": "Jaylen Warren",
+    "team": "Pittsburgh Steelers",
+    "position": "RB"
+  },
+  {
+    "id": "5000084",
+    "name": "Jaylen Wright",
+    "team": "Miami Dolphins",
+    "position": "RB"
+  },
+  {
+    "id": "5000344",
+    "name": "Jeremy McNichols",
+    "team": "Washington Commanders",
+    "position": "RB"
+  },
+  {
+    "id": "5000072",
+    "name": "Jerome Ford",
+    "team": "Cleveland Browns",
+    "position": "RB"
+  },
+  {
+    "id": "4567900",
+    "name": "Joe Mixon",
+    "team": "Houston Texans",
+    "position": "RB"
+  },
+  {
+    "id": "4360438",
+    "name": "Jonathan Taylor",
+    "team": "Indianapolis Colts",
+    "position": "RB"
+  },
+  {
+    "id": "5000310",
+    "name": "Jonathon Brooks",
+    "team": "Carolina Panthers",
+    "position": "RB"
+  },
+  {
+    "id": "5000202",
+    "name": "Jordan James",
+    "team": "San Francisco 49ers",
+    "position": "RB"
+  },
+  {
+    "id": "5000050",
+    "name": "Jordan Mason",
+    "team": "Minnesota Vikings",
+    "position": "RB"
+  },
+  {
+    "id": "4259545",
+    "name": "Josh Jacobs",
+    "team": "Green Bay Packers",
+    "position": "RB"
+  },
+  {
+    "id": "5000364",
+    "name": "Julius Chestnut",
+    "team": "Tennessee Titans",
+    "position": "RB"
+  },
+  {
+    "id": "5000130",
+    "name": "Justice Hill",
+    "team": "Baltimore Ravens",
+    "position": "RB"
+  },
+  {
+    "id": "5000025",
+    "name": "Kaleb Johnson",
+    "team": "Pittsburgh Steelers",
+    "position": "RB"
+  },
+  {
+    "id": "5000300",
+    "name": "Kalel Mullings",
+    "team": "Tennessee Titans",
+    "position": "RB"
+  },
+  {
+    "id": "5000129",
+    "name": "Kareem Hunt",
+    "team": "Kansas City Chiefs",
+    "position": "RB"
+  },
+  {
+    "id": "5000170",
+    "name": "Keaton Mitchell",
+    "team": "Baltimore Ravens",
+    "position": "RB"
+  },
+  {
+    "id": "5000148",
+    "name": "Kendre Miller",
+    "team": "New Orleans Saints",
+    "position": "RB"
+  },
+  {
+    "id": "5000186",
+    "name": "Kenneth Gainwell",
+    "team": "Pittsburgh Steelers",
+    "position": "RB"
+  },
+  {
+    "id": "4240069",
+    "name": "Kenneth Walker",
+    "team": "Seattle Seahawks",
+    "position": "RB"
+  },
+  {
+    "id": "5000204",
+    "name": "Khalil Herbert",
+    "team": "Indianapolis Colts",
+    "position": "RB"
+  },
+  {
+    "id": "5000215",
+    "name": "Kimani Vidal",
+    "team": "Los Angeles Chargers",
+    "position": "RB"
+  },
+  {
+    "id": "5000304",
+    "name": "Kyle Juszczyk",
+    "team": "San Francisco 49ers",
+    "position": "RB"
+  },
+  {
+    "id": "5000154",
+    "name": "Kyle Monangai",
+    "team": "Chicago Bears",
+    "position": "RB"
+  },
+  {
+    "id": "4567895",
+    "name": "Kyren Williams",
+    "team": "Los Angeles Rams",
+    "position": "RB"
+  },
+  {
+    "id": "5000287",
+    "name": "LeQuint Allen",
+    "team": "Jacksonville Jaguars",
+    "position": "RB"
+  },
+  {
+    "id": "5000112",
+    "name": "MarShawn Lloyd",
+    "team": "Green Bay Packers",
+    "position": "RB"
+  },
+  {
+    "id": "5000366",
+    "name": "Marcus Yarns",
+    "team": "New Orleans Saints",
+    "position": "RB"
+  },
+  {
+    "id": "5000382",
+    "name": "Michael Burton",
+    "team": "Denver Broncos",
+    "position": "RB"
+  },
+  {
+    "id": "5000379",
+    "name": "Michael Carter",
+    "team": "Arizona Cardinals",
+    "position": "RB"
+  },
+  {
+    "id": "5000151",
+    "name": "Miles Sanders",
+    "team": "Dallas Cowboys",
+    "position": "RB"
+  },
+  {
+    "id": "4241390",
+    "name": "Najee Harris",
+    "team": "Los Angeles Chargers",
+    "position": "RB"
+  },
+  {
+    "id": "4242335",
+    "name": "Nick Chubb",
+    "team": "Houston Texans",
+    "position": "RB"
+  },
+  {
+    "id": "5000181",
+    "name": "Ollie Gordon",
+    "team": "Miami Dolphins",
+    "position": "RB"
+  },
+  {
+    "id": "5000012",
+    "name": "Omarion Hampton",
+    "team": "Los Angeles Chargers",
+    "position": "RB"
+  },
+  {
+    "id": "5000411",
+    "name": "Patrick Taylor",
+    "team": "San Francisco 49ers",
+    "position": "RB"
+  },
+  {
+    "id": "5000229",
+    "name": "Phil Mafah",
+    "team": "Dallas Cowboys",
+    "position": "RB"
+  },
+  {
+    "id": "5000351",
+    "name": "Pierre Strong",
+    "team": "Cleveland Browns",
+    "position": "RB"
+  },
+  {
+    "id": "5000042",
+    "name": "Quinshon Judkins",
+    "team": "Cleveland Browns",
+    "position": "RB"
+  },
+  {
+    "id": "5000023",
+    "name": "RJ Harvey",
+    "team": "Denver Broncos",
+    "position": "RB"
+  },
+  {
+    "id": "4567896",
+    "name": "Rachaad White",
+    "team": "Tampa Bay Buccaneers",
+    "position": "RB"
+  },
+  {
+    "id": "5000163",
+    "name": "Raheem Mostert",
+    "team": "Las Vegas Raiders",
+    "position": "RB"
+  },
+  {
+    "id": "5000243",
+    "name": "Raheim Sanders",
+    "team": "Los Angeles Chargers",
+    "position": "RB"
+  },
+  {
+    "id": "5000406",
+    "name": "Rasheen Ali",
+    "team": "Baltimore Ravens",
+    "position": "RB"
+  },
+  {
+    "id": "5000066",
+    "name": "Ray Davis",
+    "team": "Buffalo Bills",
+    "position": "RB"
+  },
+  {
+    "id": "5000045",
+    "name": "Rhamondre Stevenson",
+    "team": "New England Patriots",
+    "position": "RB"
+  },
+  {
+    "id": "5000073",
+    "name": "Rico Dowdle",
+    "team": "Carolina Panthers",
+    "position": "RB"
+  },
+  {
+    "id": "5000412",
+    "name": "Ronnie Rivers",
+    "team": "Los Angeles Rams",
+    "position": "RB"
+  },
+  {
+    "id": "5000092",
+    "name": "Roschon Johnson",
+    "team": "Chicago Bears",
+    "position": "RB"
+  },
+  {
+    "id": "5000255",
+    "name": "Samaje Perine",
+    "team": "Cincinnati Bengals",
+    "position": "RB"
+  },
+  {
+    "id": "4241985",
+    "name": "Saquon Barkley",
+    "team": "Philadelphia Eagles",
+    "position": "RB"
+  },
+  {
+    "id": "5000191",
+    "name": "Sean Tucker",
+    "team": "Tampa Bay Buccaneers",
+    "position": "RB"
+  },
+  {
+    "id": "5000214",
+    "name": "Sincere McCormick",
+    "team": "Las Vegas Raiders",
+    "position": "RB"
+  },
+  {
+    "id": "5000414",
+    "name": "Sione Vaki",
+    "team": "Detroit Lions",
+    "position": "RB"
+  },
+  {
+    "id": "5000184",
+    "name": "Tahj Brooks",
+    "team": "Cincinnati Bengals",
+    "position": "RB"
+  },
+  {
+    "id": "5000059",
+    "name": "Tank Bigsby",
+    "team": "Jacksonville Jaguars",
+    "position": "RB"
+  },
+  {
+    "id": "4567899",
+    "name": "Tony Pollard",
+    "team": "Tennessee Titans",
+    "position": "RB"
+  },
+  {
+    "id": "5000033",
+    "name": "Travis Etienne",
+    "team": "Jacksonville Jaguars",
+    "position": "RB"
+  },
+  {
+    "id": "5000020",
+    "name": "TreVeyon Henderson",
+    "team": "New England Patriots",
+    "position": "RB"
+  },
+  {
+    "id": "5000182",
+    "name": "Trevor Etienne",
+    "team": "Carolina Panthers",
+    "position": "RB"
+  },
+  {
+    "id": "5000071",
+    "name": "Trey Benson",
+    "team": "Arizona Cardinals",
+    "position": "RB"
+  },
+  {
+    "id": "5000285",
+    "name": "Trey Sermon",
+    "team": "Pittsburgh Steelers",
+    "position": "RB"
+  },
+  {
+    "id": "5000227",
+    "name": "Ty Chandler",
+    "team": "Minnesota Vikings",
+    "position": "RB"
+  },
+  {
+    "id": "5000194",
+    "name": "Ty Johnson",
+    "team": "Buffalo Bills",
+    "position": "RB"
+  },
+  {
+    "id": "5000049",
+    "name": "Tyjae Spears",
+    "team": "Tennessee Titans",
+    "position": "RB"
+  },
+  {
+    "id": "5000079",
+    "name": "Tyler Allgeier",
+    "team": "Atlanta Falcons",
+    "position": "RB"
+  },
+  {
+    "id": "5000367",
+    "name": "Tyler Badie",
+    "team": "Denver Broncos",
+    "position": "RB"
+  },
+  {
+    "id": "5000375",
+    "name": "Tyler Goodson",
+    "team": "Indianapolis Colts",
+    "position": "RB"
+  },
+  {
+    "id": "5000035",
+    "name": "Tyrone Tracy",
+    "team": "New York Giants",
+    "position": "RB"
+  },
+  {
+    "id": "5000157",
+    "name": "Will Shipley",
+    "team": "Philadelphia Eagles",
+    "position": "RB"
+  },
+  {
+    "id": "5000188",
+    "name": "Woody Marks",
+    "team": "Houston Texans",
+    "position": "RB"
+  },
+  {
+    "id": "5000043",
+    "name": "Zach Charbonnet",
+    "team": "Seattle Seahawks",
+    "position": "RB"
+  },
+  {
+    "id": "5000211",
+    "name": "Zack Moss",
+    "team": "FA",
+    "position": "RB"
+  },
+  {
+    "id": "5000247",
+    "name": "Zamir White",
+    "team": "Las Vegas Raiders",
+    "position": "RB"
+  },
+  {
+    "id": "4239996",
+    "name": "AJ Brown",
+    "team": "Philadelphia Eagles",
+    "position": "WR"
+  },
+  {
+    "id": "5000077",
+    "name": "Adam Thielen",
+    "team": "Carolina Panthers",
+    "position": "WR"
+  },
+  {
+    "id": "5000138",
+    "name": "Adonai Mitchell",
+    "team": "Indianapolis Colts",
+    "position": "WR"
+  },
+  {
+    "id": "5000124",
+    "name": "Alec Pierce",
+    "team": "Indianapolis Colts",
+    "position": "WR"
+  },
+  {
+    "id": "5000275",
+    "name": "Allen Lazard",
+    "team": "New York Jets",
+    "position": "WR"
+  },
+  {
+    "id": "4567917",
+    "name": "Amari Cooper",
+    "team": "FA",
+    "position": "WR"
+  },
+  {
+    "id": "4567902",
+    "name": "Amon-Ra St Brown",
+    "team": "Detroit Lions",
+    "position": "WR"
+  },
+  {
+    "id": "5000139",
+    "name": "Andrei Iosivas",
+    "team": "Cincinnati Bengals",
+    "position": "WR"
+  },
+  {
+    "id": "5000293",
+    "name": "Antwane Wells",
+    "team": "New York Giants",
+    "position": "WR"
+  },
+  {
+    "id": "5000315",
+    "name": "Arian Smith",
+    "team": "New York Jets",
+    "position": "WR"
+  },
+  {
+    "id": "5000167",
+    "name": "Brandin Cooks",
+    "team": "New Orleans Saints",
+    "position": "WR"
+  },
+  {
+    "id": "4567910",
+    "name": "Brandon Aiyuk",
+    "team": "San Francisco 49ers",
+    "position": "WR"
+  },
+  {
+    "id": "5000000",
+    "name": "Brian Thomas",
+    "team": "Jacksonville Jaguars",
+    "position": "WR"
+  },
+  {
+    "id": "5000370",
+    "name": "Bub Means",
+    "team": "New Orleans Saints",
+    "position": "WR"
+  },
+  {
+    "id": "5000146",
+    "name": "Calvin Austin",
+    "team": "Pittsburgh Steelers",
+    "position": "WR"
+  },
+  {
+    "id": "4567916",
+    "name": "Calvin Ridley",
+    "team": "Tennessee Titans",
+    "position": "WR"
+  },
+  {
+    "id": "5000065",
+    "name": "Cedric Tillman",
+    "team": "Cleveland Browns",
+    "position": "WR"
+  },
+  {
+    "id": "5000405",
+    "name": "Cedrick Wilson",
+    "team": "New Orleans Saints",
+    "position": "WR"
+  },
+  {
+    "id": "4361370",
+    "name": "CeeDee Lamb",
+    "team": "Dallas Cowboys",
+    "position": "WR"
+  },
+  {
+    "id": "5000268",
+    "name": "Chimere Dike",
+    "team": "Tennessee Titans",
+    "position": "WR"
+  },
+  {
+    "id": "4567904",
+    "name": "Chris Godwin",
+    "team": "Tampa Bay Buccaneers",
+    "position": "WR"
+  },
+  {
+    "id": "4567908",
+    "name": "Chris Olave",
+    "team": "New Orleans Saints",
+    "position": "WR"
+  },
+  {
+    "id": "5000055",
+    "name": "Christian Kirk",
+    "team": "Houston Texans",
+    "position": "WR"
+  },
+  {
+    "id": "5000217",
+    "name": "Christian Watson",
+    "team": "Green Bay Packers",
+    "position": "WR"
+  },
+  {
+    "id": "3116365",
+    "name": "Cooper Kupp",
+    "team": "Seattle Seahawks",
+    "position": "WR"
+  },
+  {
+    "id": "5000008",
+    "name": "Courtland Sutton",
+    "team": "Denver Broncos",
+    "position": "WR"
+  },
+  {
+    "id": "5000278",
+    "name": "Curtis Samuel",
+    "team": "Buffalo Bills",
+    "position": "WR"
+  },
+  {
+    "id": "5000378",
+    "name": "DJ Chark",
+    "team": "Atlanta Falcons",
+    "position": "WR"
+  },
+  {
+    "id": "4567911",
+    "name": "DJ Moore",
+    "team": "Chicago Bears",
+    "position": "WR"
+  },
+  {
+    "id": "4240069",
+    "name": "DK Metcalf",
+    "team": "Pittsburgh Steelers",
+    "position": "WR"
+  },
+  {
+    "id": "5000137",
+    "name": "Darius Slayton",
+    "team": "New York Giants",
+    "position": "WR"
+  },
+  {
+    "id": "5000047",
+    "name": "Darnell Mooney",
+    "team": "Atlanta Falcons",
+    "position": "WR"
+  },
+  {
+    "id": "5000006",
+    "name": "Davante Adams",
+    "team": "Los Angeles Rams",
+    "position": "WR"
+  },
+  {
+    "id": "5000385",
+    "name": "David Bell",
+    "team": "Cleveland Browns",
+    "position": "WR"
+  },
+  {
+    "id": "5000403",
+    "name": "David Moore",
+    "team": "Carolina Panthers",
+    "position": "WR"
+  },
+  {
+    "id": "5000101",
+    "name": "DeAndre Hopkins",
+    "team": "Baltimore Ravens",
+    "position": "WR"
+  },
+  {
+    "id": "5000094",
+    "name": "DeMario Douglas",
+    "team": "New England Patriots",
+    "position": "WR"
+  },
+  {
+    "id": "4567905",
+    "name": "DeVonta Smith",
+    "team": "Philadelphia Eagles",
+    "position": "WR"
+  },
+  {
+    "id": "5000036",
+    "name": "Deebo Samuel",
+    "team": "Washington Commanders",
+    "position": "WR"
+  },
+  {
+    "id": "5000257",
+    "name": "Demarcus Robinson",
+    "team": "San Francisco 49ers",
+    "position": "WR"
+  },
+  {
+    "id": "5000358",
+    "name": "Derius Davis",
+    "team": "Los Angeles Chargers",
+    "position": "WR"
+  },
+  {
+    "id": "5000147",
+    "name": "Devaughn Vele",
+    "team": "Denver Broncos",
+    "position": "WR"
+  },
+  {
+    "id": "5000355",
+    "name": "Devontez Walker",
+    "team": "Baltimore Ravens",
+    "position": "WR"
+  },
+  {
+    "id": "4567918",
+    "name": "Diontae Johnson",
+    "team": "Cleveland Browns",
+    "position": "WR"
+  },
+  {
+    "id": "5000220",
+    "name": "Dont'e Thornton",
+    "team": "Las Vegas Raiders",
+    "position": "WR"
+  },
+  {
+    "id": "5000133",
+    "name": "Dontayvion Wicks",
+    "team": "Green Bay Packers",
+    "position": "WR"
+  },
+  {
+    "id": "4567907",
+    "name": "Drake London",
+    "team": "Atlanta Falcons",
+    "position": "WR"
+  },
+  {
+    "id": "5000174",
+    "name": "Dyami Brown",
+    "team": "Jacksonville Jaguars",
+    "position": "WR"
+  },
+  {
+    "id": "5000373",
+    "name": "Efton Chism",
+    "team": "New England Patriots",
+    "position": "WR"
+  },
+  {
+    "id": "5000150",
+    "name": "Elic Ayomanor",
+    "team": "Tennessee Titans",
+    "position": "WR"
+  },
+  {
+    "id": "5000164",
+    "name": "Elijah Moore",
+    "team": "Buffalo Bills",
+    "position": "WR"
+  },
+  {
+    "id": "5000051",
+    "name": "Emeka Egbuka",
+    "team": "Tampa Bay Buccaneers",
+    "position": "WR"
+  },
+  {
+    "id": "5000222",
+    "name": "Gabe Davis",
+    "team": "FA",
+    "position": "WR"
+  },
+  {
+    "id": "4567906",
+    "name": "Garrett Wilson",
+    "team": "New York Jets",
+    "position": "WR"
+  },
+  {
+    "id": "5000017",
+    "name": "George Pickens",
+    "team": "Dallas Cowboys",
+    "position": "WR"
+  },
+  {
+    "id": "5000279",
+    "name": "Greg Dortch",
+    "team": "Arizona Cardinals",
+    "position": "WR"
+  },
+  {
+    "id": "5000323",
+    "name": "Hunter Renfrow",
+    "team": "Carolina Panthers",
+    "position": "WR"
+  },
+  {
+    "id": "5000223",
+    "name": "Isaac TeSlaa",
+    "team": "Detroit Lions",
+    "position": "WR"
+  },
+  {
+    "id": "5000262",
+    "name": "Isaiah Bond",
+    "team": "FA",
+    "position": "WR"
+  },
+  {
+    "id": "5000318",
+    "name": "Ja'Lynn Polk",
+    "team": "New England Patriots",
+    "position": "WR"
+  },
+  {
+    "id": "4372016",
+    "name": "Ja'Marr Chase",
+    "team": "Cincinnati Bengals",
+    "position": "WR"
+  },
+  {
+    "id": "5000114",
+    "name": "Jack Bech",
+    "team": "Las Vegas Raiders",
+    "position": "WR"
+  },
+  {
+    "id": "5000305",
+    "name": "Jacob Cowing",
+    "team": "San Francisco 49ers",
+    "position": "WR"
+  },
+  {
+    "id": "5000289",
+    "name": "Jahan Dotson",
+    "team": "Philadelphia Eagles",
+    "position": "WR"
+  },
+  {
+    "id": "5000371",
+    "name": "Jake Bobo",
+    "team": "Seattle Seahawks",
+    "position": "WR"
+  },
+  {
+    "id": "5000026",
+    "name": "Jakobi Meyers",
+    "team": "Las Vegas Raiders",
+    "position": "WR"
+  },
+  {
+    "id": "5000117",
+    "name": "Jalen Coker",
+    "team": "Carolina Panthers",
+    "position": "WR"
+  },
+  {
+    "id": "5000090",
+    "name": "Jalen McMillan",
+    "team": "Tampa Bay Buccaneers",
+    "position": "WR"
+  },
+  {
+    "id": "5000199",
+    "name": "Jalen Nailor",
+    "team": "Minnesota Vikings",
+    "position": "WR"
+  },
+  {
+    "id": "5000172",
+    "name": "Jalen Royals",
+    "team": "Kansas City Chiefs",
+    "position": "WR"
+  },
+  {
+    "id": "5000162",
+    "name": "Jalen Tolbert",
+    "team": "Dallas Cowboys",
+    "position": "WR"
+  },
+  {
+    "id": "5000312",
+    "name": "Jalin Hyatt",
+    "team": "New York Giants",
+    "position": "WR"
+  },
+  {
+    "id": "5000015",
+    "name": "Jameson Williams",
+    "team": "Detroit Lions",
+    "position": "WR"
+  },
+  {
+    "id": "5000029",
+    "name": "Jauan Jennings",
+    "team": "San Francisco 49ers",
+    "position": "WR"
+  },
+  {
+    "id": "5000334",
+    "name": "Javon Baker",
+    "team": "New England Patriots",
+    "position": "WR"
+  },
+  {
+    "id": "5000003",
+    "name": "Jaxon Smith-Njigba",
+    "team": "Seattle Seahawks",
+    "position": "WR"
+  },
+  {
+    "id": "5000088",
+    "name": "Jayden Higgins",
+    "team": "Houston Texans",
+    "position": "WR"
+  },
+  {
+    "id": "5000037",
+    "name": "Jayden Reed",
+    "team": "Green Bay Packers",
+    "position": "WR"
+  },
+  {
+    "id": "4362887",
+    "name": "Jaylen Waddle",
+    "team": "Miami Dolphins",
+    "position": "WR"
+  },
+  {
+    "id": "5000284",
+    "name": "Jaylin Lane",
+    "team": "Washington Commanders",
+    "position": "WR"
+  },
+  {
+    "id": "5000140",
+    "name": "Jaylin Noel",
+    "team": "Houston Texans",
+    "position": "WR"
+  },
+  {
+    "id": "5000221",
+    "name": "Jermaine Burton",
+    "team": "Cincinnati Bengals",
+    "position": "WR"
+  },
+  {
+    "id": "5000021",
+    "name": "Jerry Jeudy",
+    "team": "Cleveland Browns",
+    "position": "WR"
+  },
+  {
+    "id": "5000399",
+    "name": "Jimmy Horn",
+    "team": "Carolina Panthers",
+    "position": "WR"
+  },
+  {
+    "id": "5000249",
+    "name": "John Metchie",
+    "team": "Houston Texans",
+    "position": "WR"
+  },
+  {
+    "id": "5000330",
+    "name": "Jonathan Mingo",
+    "team": "Dallas Cowboys",
+    "position": "WR"
+  },
+  {
+    "id": "4567921",
+    "name": "Jordan Addison",
+    "team": "Minnesota Vikings",
+    "position": "WR"
+  },
+  {
+    "id": "5000365",
+    "name": "Jordan Watkins",
+    "team": "San Francisco 49ers",
+    "position": "WR"
+  },
+  {
+    "id": "5000246",
+    "name": "Jordan Whittington",
+    "team": "Los Angeles Rams",
+    "position": "WR"
+  },
+  {
+    "id": "5000034",
+    "name": "Josh Downs",
+    "team": "Indianapolis Colts",
+    "position": "WR"
+  },
+  {
+    "id": "5000261",
+    "name": "Josh Reynolds",
+    "team": "New York Jets",
+    "position": "WR"
+  },
+  {
+    "id": "5000104",
+    "name": "Joshua Palmer",
+    "team": "Buffalo Bills",
+    "position": "WR"
+  },
+  {
+    "id": "5000328",
+    "name": "JuJu Smith-Schuster",
+    "team": "Kansas City Chiefs",
+    "position": "WR"
+  },
+  {
+    "id": "5000369",
+    "name": "Julian Fleming",
+    "team": "FA",
+    "position": "WR"
+  },
+  {
+    "id": "3929596",
+    "name": "Justin Jefferson",
+    "team": "Minnesota Vikings",
+    "position": "WR"
+  },
+  {
+    "id": "5000388",
+    "name": "KJ Osborn",
+    "team": "Washington Commanders",
+    "position": "WR"
+  },
+  {
+    "id": "5000267",
+    "name": "KaVontae Turpin",
+    "team": "Dallas Cowboys",
+    "position": "WR"
+  },
+  {
+    "id": "5000341",
+    "name": "Kalif Raymond",
+    "team": "Detroit Lions",
+    "position": "WR"
+  },
+  {
+    "id": "5000179",
+    "name": "Kayshon Boutte",
+    "team": "New England Patriots",
+    "position": "WR"
+  },
+  {
+    "id": "5000327",
+    "name": "KeAndre Lambert-Smith",
+    "team": "Los Angeles Chargers",
+    "position": "WR"
+  },
+  {
+    "id": "4567913",
+    "name": "Keenan Allen",
+    "team": "FA",
+    "position": "WR"
+  },
+  {
+    "id": "5000314",
+    "name": "Kendrick Bourne",
+    "team": "New England Patriots",
+    "position": "WR"
+  },
+  {
+    "id": "5000058",
+    "name": "Keon Coleman",
+    "team": "Buffalo Bills",
+    "position": "WR"
+  },
+  {
+    "id": "5000353",
+    "name": "KhaDarel Hodge",
+    "team": "Atlanta Falcons",
+    "position": "WR"
+  },
+  {
+    "id": "5000027",
+    "name": "Khalil Shakir",
+    "team": "Buffalo Bills",
+    "position": "WR"
+  },
+  {
+    "id": "5000089",
+    "name": "Kyle Williams",
+    "team": "New England Patriots",
+    "position": "WR"
+  },
+  {
+    "id": "5000002",
+    "name": "Ladd McConkey",
+    "team": "Los Angeles Chargers",
+    "position": "WR"
+  },
+  {
+    "id": "5000205",
+    "name": "Luke McCaffrey",
+    "team": "Washington Commanders",
+    "position": "WR"
+  },
+  {
+    "id": "5000067",
+    "name": "Luther Burden",
+    "team": "Chicago Bears",
+    "position": "WR"
+  },
+  {
+    "id": "5000270",
+    "name": "Mack Hollins",
+    "team": "New England Patriots",
+    "position": "WR"
+  },
+  {
+    "id": "5000335",
+    "name": "Malachi Corley",
+    "team": "New York Jets",
+    "position": "WR"
+  },
+  {
+    "id": "4567925",
+    "name": "Malik Nabers",
+    "team": "New York Giants",
+    "position": "WR"
+  },
+  {
+    "id": "5000177",
+    "name": "Malik Washington",
+    "team": "Miami Dolphins",
+    "position": "WR"
+  },
+  {
+    "id": "5000251",
+    "name": "Marquez Valdes-Scantling",
+    "team": "Seattle Seahawks",
+    "position": "WR"
+  },
+  {
+    "id": "5000070",
+    "name": "Marquise Brown",
+    "team": "Kansas City Chiefs",
+    "position": "WR"
+  },
+  {
+    "id": "4567926",
+    "name": "Marvin Harrison",
+    "team": "Arizona Cardinals",
+    "position": "WR"
+  },
+  {
+    "id": "5000076",
+    "name": "Marvin Mims",
+    "team": "Denver Broncos",
+    "position": "WR"
+  },
+  {
+    "id": "5000054",
+    "name": "Matthew Golden",
+    "team": "Green Bay Packers",
+    "position": "WR"
+  },
+  {
+    "id": "5000398",
+    "name": "Mecole Hardman",
+    "team": "Green Bay Packers",
+    "position": "WR"
+  },
+  {
+    "id": "5000348",
+    "name": "Michael Gallup",
+    "team": "Washington Commanders",
+    "position": "WR"
+  },
+  {
+    "id": "4567915",
+    "name": "Michael Pittman",
+    "team": "Indianapolis Colts",
+    "position": "WR"
+  },
+  {
+    "id": "5000119",
+    "name": "Michael Wilson",
+    "team": "Arizona Cardinals",
+    "position": "WR"
+  },
+  {
+    "id": "4567903",
+    "name": "Mike Evans",
+    "team": "Tampa Bay Buccaneers",
+    "position": "WR"
+  },
+  {
+    "id": "5000401",
+    "name": "Nick Nash",
+    "team": "Atlanta Falcons",
+    "position": "WR"
+  },
+  {
+    "id": "5000176",
+    "name": "Nick Westbrook-Ikhine",
+    "team": "Miami Dolphins",
+    "position": "WR"
+  },
+  {
+    "id": "4567920",
+    "name": "Nico Collins",
+    "team": "Houston Texans",
+    "position": "WR"
+  },
+  {
+    "id": "5000260",
+    "name": "Noah Brown",
+    "team": "Washington Commanders",
+    "position": "WR"
+  },
+  {
+    "id": "5000311",
+    "name": "Olamide Zaccheaus",
+    "team": "Chicago Bears",
+    "position": "WR"
+  },
+  {
+    "id": "5000196",
+    "name": "Parker Washington",
+    "team": "Jacksonville Jaguars",
+    "position": "WR"
+  },
+  {
+    "id": "5000156",
+    "name": "Pat Bryant",
+    "team": "Denver Broncos",
+    "position": "WR"
+  },
+  {
+    "id": "4429013",
+    "name": "Puka Nacua",
+    "team": "Los Angeles Rams",
+    "position": "WR"
+  },
+  {
+    "id": "5000087",
+    "name": "Quentin Johnston",
+    "team": "Los Angeles Chargers",
+    "position": "WR"
+  },
+  {
+    "id": "5000009",
+    "name": "Rashee Rice",
+    "team": "Kansas City Chiefs",
+    "position": "WR"
+  },
+  {
+    "id": "5000057",
+    "name": "Rashid Shaheed",
+    "team": "New Orleans Saints",
+    "position": "WR"
+  },
+  {
+    "id": "5000069",
+    "name": "Rashod Bateman",
+    "team": "Baltimore Ravens",
+    "position": "WR"
+  },
+  {
+    "id": "5000244",
+    "name": "Ray-Ray McCloud",
+    "team": "Atlanta Falcons",
+    "position": "WR"
+  },
+  {
+    "id": "5000039",
+    "name": "Ricky Pearsall",
+    "team": "San Francisco 49ers",
+    "position": "WR"
+  },
+  {
+    "id": "5000292",
+    "name": "Robert Woods",
+    "team": "Pittsburgh Steelers",
+    "position": "WR"
+  },
+  {
+    "id": "5000169",
+    "name": "Roman Wilson",
+    "team": "Pittsburgh Steelers",
+    "position": "WR"
+  },
+  {
+    "id": "4567924",
+    "name": "Rome Odunze",
+    "team": "Chicago Bears",
+    "position": "WR"
+  },
+  {
+    "id": "5000080",
+    "name": "Romeo Doubs",
+    "team": "Green Bay Packers",
+    "position": "WR"
+  },
+  {
+    "id": "5000387",
+    "name": "Rondale Moore",
+    "team": "Minnesota Vikings",
+    "position": "WR"
+  },
+  {
+    "id": "5000263",
+    "name": "Savion Williams",
+    "team": "Green Bay Packers",
+    "position": "WR"
+  },
+  {
+    "id": "4567914",
+    "name": "Stefon Diggs",
+    "team": "New England Patriots",
+    "position": "WR"
+  },
+  {
+    "id": "5000248",
+    "name": "Tai Felton",
+    "team": "Minnesota Vikings",
+    "position": "WR"
+  },
+  {
+    "id": "4567919",
+    "name": "Tank Dell",
+    "team": "Houston Texans",
+    "position": "WR"
+  },
+  {
+    "id": "4567909",
+    "name": "Tee Higgins",
+    "team": "Cincinnati Bengals",
+    "position": "WR"
+  },
+  {
+    "id": "4567912",
+    "name": "Terry McLaurin",
+    "team": "Washington Commanders",
+    "position": "WR"
+  },
+  {
+    "id": "5000013",
+    "name": "Tetairoa McMillan",
+    "team": "Carolina Panthers",
+    "position": "WR"
+  },
+  {
+    "id": "5000224",
+    "name": "Tez Johnson",
+    "team": "Tampa Bay Buccaneers",
+    "position": "WR"
+  },
+  {
+    "id": "5000302",
+    "name": "Theo Wease",
+    "team": "Miami Dolphins",
+    "position": "WR"
+  },
+  {
+    "id": "5000192",
+    "name": "Tim Patrick",
+    "team": "Detroit Lions",
+    "position": "WR"
+  },
+  {
+    "id": "5000216",
+    "name": "Tory Horton",
+    "team": "Seattle Seahawks",
+    "position": "WR"
+  },
+  {
+    "id": "5000022",
+    "name": "Travis Hunter",
+    "team": "Jacksonville Jaguars",
+    "position": "WR"
+  },
+  {
+    "id": "5000195",
+    "name": "Tre Tucker",
+    "team": "Las Vegas Raiders",
+    "position": "WR"
+  },
+  {
+    "id": "5000075",
+    "name": "Tre' Harris",
+    "team": "Los Angeles Chargers",
+    "position": "WR"
+  },
+  {
+    "id": "5000359",
+    "name": "Treylon Burks",
+    "team": "Tennessee Titans",
+    "position": "WR"
+  },
+  {
+    "id": "5000258",
+    "name": "Troy Franklin",
+    "team": "Denver Broncos",
+    "position": "WR"
+  },
+  {
+    "id": "5000235",
+    "name": "Tutu Atwell",
+    "team": "Los Angeles Rams",
+    "position": "WR"
+  },
+  {
+    "id": "5000352",
+    "name": "Tyler Johnson",
+    "team": "New York Jets",
+    "position": "WR"
+  },
+  {
+    "id": "5000153",
+    "name": "Tyler Lockett",
+    "team": "Tennessee Titans",
+    "position": "WR"
+  },
+  {
+    "id": "3139925",
+    "name": "Tyreek Hill",
+    "team": "Miami Dolphins",
+    "position": "WR"
+  },
+  {
+    "id": "5000295",
+    "name": "Van Jefferson",
+    "team": "Tennessee Titans",
+    "position": "WR"
+  },
+  {
+    "id": "5000085",
+    "name": "Wan'Dale Robinson",
+    "team": "New York Giants",
+    "position": "WR"
+  },
+  {
+    "id": "5000096",
+    "name": "Xavier Legette",
+    "team": "Carolina Panthers",
+    "position": "WR"
+  },
+  {
+    "id": "5000197",
+    "name": "Xavier Restrepo",
+    "team": "Tennessee Titans",
+    "position": "WR"
+  },
+  {
+    "id": "5000014",
+    "name": "Xavier Worthy",
+    "team": "Kansas City Chiefs",
+    "position": "WR"
+  },
+  {
+    "id": "4567922",
+    "name": "Zay Flowers",
+    "team": "Baltimore Ravens",
+    "position": "WR"
+  },
+  {
+    "id": "5000326",
+    "name": "Zay Jones",
+    "team": "Arizona Cardinals",
+    "position": "WR"
+  },
+  {
+    "id": "5000274",
+    "name": "AJ Barner",
+    "team": "Seattle Seahawks",
+    "position": "TE"
+  },
+  {
+    "id": "5000417",
+    "name": "Adam Trautman",
+    "team": "Denver Broncos",
+    "position": "TE"
+  },
+  {
+    "id": "5000280",
+    "name": "Austin Hooper",
+    "team": "New England Patriots",
+    "position": "TE"
+  },
+  {
+    "id": "5000238",
+    "name": "Ben Sinnott",
+    "team": "Washington Commanders",
+    "position": "TE"
+  },
+  {
+    "id": "5000105",
+    "name": "Brenton Strange",
+    "team": "Jacksonville Jaguars",
+    "position": "TE"
+  },
+  {
+    "id": "5000384",
+    "name": "Brevin Jordan",
+    "team": "Houston Texans",
+    "position": "TE"
+  },
+  {
+    "id": "4567928",
+    "name": "Brock Bowers",
+    "team": "Las Vegas Raiders",
+    "position": "TE"
+  },
+  {
+    "id": "4567934",
+    "name": "Cade Otton",
+    "team": "Tampa Bay Buccaneers",
+    "position": "TE"
+  },
+  {
+    "id": "5000316",
+    "name": "Cade Stover",
+    "team": "Houston Texans",
+    "position": "TE"
+  },
+  {
+    "id": "5000121",
+    "name": "Chig Okonkwo",
+    "team": "Tennessee Titans",
+    "position": "TE"
+  },
+  {
+    "id": "5000389",
+    "name": "Colby Parkinson",
+    "team": "Los Angeles Rams",
+    "position": "TE"
+  },
+  {
+    "id": "5000166",
+    "name": "Cole Kmet",
+    "team": "Chicago Bears",
+    "position": "TE"
+  },
+  {
+    "id": "5000063",
+    "name": "Colston Loveland",
+    "team": "Chicago Bears",
+    "position": "TE"
+  },
+  {
+    "id": "4038524",
+    "name": "Dallas Goedert",
+    "team": "Philadelphia Eagles",
+    "position": "TE"
+  },
+  {
+    "id": "5000046",
+    "name": "Dalton Kincaid",
+    "team": "Buffalo Bills",
+    "position": "TE"
+  },
+  {
+    "id": "5000143",
+    "name": "Dalton Schultz",
+    "team": "Houston Texans",
+    "position": "TE"
+  },
+  {
+    "id": "5000386",
+    "name": "Daniel Bellinger",
+    "team": "New York Giants",
+    "position": "TE"
+  },
+  {
+    "id": "5000354",
+    "name": "Darnell Washington",
+    "team": "Pittsburgh Steelers",
+    "position": "TE"
+  },
+  {
+    "id": "5000206",
+    "name": "Darren Waller",
+    "team": "Miami Dolphins",
+    "position": "TE"
+  },
+  {
+    "id": "4567930",
+    "name": "David Njoku",
+    "team": "Cleveland Browns",
+    "position": "TE"
+  },
+  {
+    "id": "5000264",
+    "name": "Dawson Knox",
+    "team": "Buffalo Bills",
+    "position": "TE"
+  },
+  {
+    "id": "5000409",
+    "name": "Drew Sample",
+    "team": "Cincinnati Bengals",
+    "position": "TE"
+  },
+  {
+    "id": "5000160",
+    "name": "Elijah Arroyo",
+    "team": "Seattle Seahawks",
+    "position": "TE"
+  },
+  {
+    "id": "5000350",
+    "name": "Elijah Higgins",
+    "team": "Arizona Cardinals",
+    "position": "TE"
+  },
+  {
+    "id": "4567929",
+    "name": "Evan Engram",
+    "team": "Denver Broncos",
+    "position": "TE"
+  },
+  {
+    "id": "5000298",
+    "name": "Foster Moreau",
+    "team": "New Orleans Saints",
+    "position": "TE"
+  },
+  {
+    "id": "3116169",
+    "name": "George Kittle",
+    "team": "San Francisco 49ers",
+    "position": "TE"
+  },
+  {
+    "id": "5000336",
+    "name": "Grant Calcaterra",
+    "team": "Philadelphia Eagles",
+    "position": "TE"
+  },
+  {
+    "id": "5000346",
+    "name": "Greg Dulcich",
+    "team": "New York Giants",
+    "position": "TE"
+  },
+  {
+    "id": "5000283",
+    "name": "Gunnar Helm",
+    "team": "Tennessee Titans",
+    "position": "TE"
+  },
+  {
+    "id": "5000190",
+    "name": "Harold Fannin",
+    "team": "Cleveland Browns",
+    "position": "TE"
+  },
+  {
+    "id": "5000394",
+    "name": "Harrison Bryant",
+    "team": "Philadelphia Eagles",
+    "position": "TE"
+  },
+  {
+    "id": "5000064",
+    "name": "Hunter Henry",
+    "team": "New England Patriots",
+    "position": "TE"
+  },
+  {
+    "id": "5000106",
+    "name": "Isaiah Likely",
+    "team": "Baltimore Ravens",
+    "position": "TE"
+  },
+  {
+    "id": "5000158",
+    "name": "Ja'Tavion Sanders",
+    "team": "Carolina Panthers",
+    "position": "TE"
+  },
+  {
+    "id": "4567931",
+    "name": "Jake Ferguson",
+    "team": "Dallas Cowboys",
+    "position": "TE"
+  },
+  {
+    "id": "5000331",
+    "name": "Jeremy Ruckert",
+    "team": "New York Jets",
+    "position": "TE"
+  },
+  {
+    "id": "5000396",
+    "name": "John Bates",
+    "team": "Washington Commanders",
+    "position": "TE"
+  },
+  {
+    "id": "5000413",
+    "name": "Johnny Mundt",
+    "team": "Jacksonville Jaguars",
+    "position": "TE"
+  },
+  {
+    "id": "5000060",
+    "name": "Jonnu Smith",
+    "team": "Pittsburgh Steelers",
+    "position": "TE"
+  },
+  {
+    "id": "5000322",
+    "name": "Josh Oliver",
+    "team": "Minnesota Vikings",
+    "position": "TE"
+  },
+  {
+    "id": "5000356",
+    "name": "Josh Whyle",
+    "team": "Tennessee Titans",
+    "position": "TE"
+  },
+  {
+    "id": "5000383",
+    "name": "Julian Hill",
+    "team": "Miami Dolphins",
+    "position": "TE"
+  },
+  {
+    "id": "5000161",
+    "name": "Juwan Johnson",
+    "team": "New Orleans Saints",
+    "position": "TE"
+  },
+  {
+    "id": "4361741",
+    "name": "Kyle Pitts",
+    "team": "Atlanta Falcons",
+    "position": "TE"
+  },
+  {
+    "id": "5000391",
+    "name": "Kylen Granson",
+    "team": "Philadelphia Eagles",
+    "position": "TE"
+  },
+  {
+    "id": "5000415",
+    "name": "Luke Farrell",
+    "team": "San Francisco 49ers",
+    "position": "TE"
+  },
+  {
+    "id": "5000343",
+    "name": "Luke Lachey",
+    "team": "Houston Texans",
+    "position": "TE"
+  },
+  {
+    "id": "5000271",
+    "name": "Luke Musgrave",
+    "team": "Green Bay Packers",
+    "position": "TE"
+  },
+  {
+    "id": "5000291",
+    "name": "Luke Schoonmaker",
+    "team": "Dallas Cowboys",
+    "position": "TE"
+  },
+  {
+    "id": "4241457",
+    "name": "Mark Andrews",
+    "team": "Baltimore Ravens",
+    "position": "TE"
+  },
+  {
+    "id": "5000132",
+    "name": "Mason Taylor",
+    "team": "New York Jets",
+    "position": "TE"
+  },
+  {
+    "id": "5000266",
+    "name": "Michael Mayer",
+    "team": "Las Vegas Raiders",
+    "position": "TE"
+  },
+  {
+    "id": "5000103",
+    "name": "Mike Gesicki",
+    "team": "Cincinnati Bengals",
+    "position": "TE"
+  },
+  {
+    "id": "5000345",
+    "name": "Mitchell Evans",
+    "team": "Carolina Panthers",
+    "position": "TE"
+  },
+  {
+    "id": "5000212",
+    "name": "Noah Fant",
+    "team": "Cincinnati Bengals",
+    "position": "TE"
+  },
+  {
+    "id": "5000187",
+    "name": "Noah Gray",
+    "team": "Kansas City Chiefs",
+    "position": "TE"
+  },
+  {
+    "id": "5000226",
+    "name": "Oronde Gadsden",
+    "team": "Los Angeles Chargers",
+    "position": "TE"
+  },
+  {
+    "id": "4567932",
+    "name": "Pat Freiermuth",
+    "team": "Pittsburgh Steelers",
+    "position": "TE"
+  },
+  {
+    "id": "4567105",
+    "name": "Sam LaPorta",
+    "team": "Detroit Lions",
+    "position": "TE"
+  },
+  {
+    "id": "5000357",
+    "name": "Stone Smartt",
+    "team": "New York Jets",
+    "position": "TE"
+  },
+  {
+    "id": "4567927",
+    "name": "TJ Hockenson",
+    "team": "Minnesota Vikings",
+    "position": "TE"
+  },
+  {
+    "id": "5000392",
+    "name": "Tanner Hudson",
+    "team": "Cincinnati Bengals",
+    "position": "TE"
+  },
+  {
+    "id": "5000203",
+    "name": "Taysom Hill",
+    "team": "New Orleans Saints",
+    "position": "TE"
+  },
+  {
+    "id": "5000218",
+    "name": "Terrance Ferguson",
+    "team": "Los Angeles Rams",
+    "position": "TE"
+  },
+  {
+    "id": "5000201",
+    "name": "Theo Johnson",
+    "team": "New York Giants",
+    "position": "TE"
+  },
+  {
+    "id": "5000299",
+    "name": "Tommy Tremble",
+    "team": "Carolina Panthers",
+    "position": "TE"
+  },
+  {
+    "id": "2976316",
+    "name": "Travis Kelce",
+    "team": "Kansas City Chiefs",
+    "position": "TE"
+  },
+  {
+    "id": "3052587",
+    "name": "Trey McBride",
+    "team": "Arizona Cardinals",
+    "position": "TE"
+  },
+  {
+    "id": "5000040",
+    "name": "Tucker Kraft",
+    "team": "Green Bay Packers",
+    "position": "TE"
+  },
+  {
+    "id": "5000242",
+    "name": "Tyler Conklin",
+    "team": "Los Angeles Chargers",
+    "position": "TE"
+  },
+  {
+    "id": "4567933",
+    "name": "Tyler Higbee",
+    "team": "Los Angeles Rams",
+    "position": "TE"
+  },
+  {
+    "id": "5000052",
+    "name": "Tyler Warren",
+    "team": "Indianapolis Colts",
+    "position": "TE"
+  },
+  {
+    "id": "5000234",
+    "name": "Will Dissly",
+    "team": "Los Angeles Chargers",
+    "position": "TE"
+  },
+  {
+    "id": "5000082",
+    "name": "Zach Ertz",
+    "team": "Washington Commanders",
+    "position": "TE"
+  },
+  {
+    "id": "5000236",
+    "name": "Arizona Cardinals",
+    "team": "Arizona Cardinals",
+    "position": "DST"
+  },
+  {
+    "id": "5000286",
+    "name": "Atlanta Falcons",
+    "team": "Atlanta Falcons",
+    "position": "DST"
+  },
+  {
+    "id": "5000098",
+    "name": "Baltimore Ravens",
+    "team": "Baltimore Ravens",
+    "position": "DST"
+  },
+  {
+    "id": "5000109",
+    "name": "Buffalo Bills",
+    "team": "Buffalo Bills",
+    "position": "DST"
+  },
+  {
+    "id": "5000209",
+    "name": "Chicago Bears",
+    "team": "Chicago Bears",
+    "position": "DST"
+  },
+  {
+    "id": "5000309",
+    "name": "Cincinnati Bengals",
+    "team": "Cincinnati Bengals",
+    "position": "DST"
+  },
+  {
+    "id": "5000189",
+    "name": "Cleveland Browns",
+    "team": "Cleveland Browns",
+    "position": "DST"
+  },
+  {
+    "id": "5000159",
+    "name": "Dallas Cowboys",
+    "team": "Dallas Cowboys",
+    "position": "DST"
+  },
+  {
+    "id": "5000083",
+    "name": "Denver Broncos",
+    "team": "Denver Broncos",
+    "position": "DST"
+  },
+  {
+    "id": "5000110",
+    "name": "Detroit Lions",
+    "team": "Detroit Lions",
+    "position": "DST"
+  },
+  {
+    "id": "5000128",
+    "name": "Green Bay Packers",
+    "team": "Green Bay Packers",
+    "position": "DST"
+  },
+  {
+    "id": "5000108",
+    "name": "Houston Texans",
+    "team": "Houston Texans",
+    "position": "DST"
+  },
+  {
+    "id": "5000306",
+    "name": "Indianapolis Colts",
+    "team": "Indianapolis Colts",
+    "position": "DST"
+  },
+  {
+    "id": "5000339",
+    "name": "Jacksonville Jaguars",
+    "team": "Jacksonville Jaguars",
+    "position": "DST"
+  },
+  {
+    "id": "5000111",
+    "name": "Kansas City Chiefs",
+    "team": "Kansas City Chiefs",
+    "position": "DST"
+  },
+  {
+    "id": "5000325",
+    "name": "Las Vegas Raiders",
+    "team": "Las Vegas Raiders",
+    "position": "DST"
+  },
+  {
+    "id": "5000115",
+    "name": "Los Angeles Chargers",
+    "team": "Los Angeles Chargers",
+    "position": "DST"
+  },
+  {
+    "id": "5000120",
+    "name": "Los Angeles Rams",
+    "team": "Los Angeles Rams",
+    "position": "DST"
+  },
+  {
+    "id": "5000241",
+    "name": "Miami Dolphins",
+    "team": "Miami Dolphins",
+    "position": "DST"
+  },
+  {
+    "id": "5000100",
+    "name": "Minnesota Vikings",
+    "team": "Minnesota Vikings",
+    "position": "DST"
+  },
+  {
+    "id": "5000231",
+    "name": "New England Patriots",
+    "team": "New England Patriots",
+    "position": "DST"
+  },
+  {
+    "id": "5000320",
+    "name": "New Orleans Saints",
+    "team": "New Orleans Saints",
+    "position": "DST"
+  },
+  {
+    "id": "5000265",
+    "name": "New York Giants",
+    "team": "New York Giants",
+    "position": "DST"
+  },
+  {
+    "id": "5000131",
+    "name": "New York Jets",
+    "team": "New York Jets",
+    "position": "DST"
+  },
+  {
+    "id": "5000095",
+    "name": "Philadelphia Eagles",
+    "team": "Philadelphia Eagles",
+    "position": "DST"
+  },
+  {
+    "id": "5000097",
+    "name": "Pittsburgh Steelers",
+    "team": "Pittsburgh Steelers",
+    "position": "DST"
+  },
+  {
+    "id": "5000142",
+    "name": "San Francisco 49ers",
+    "team": "San Francisco 49ers",
+    "position": "DST"
+  },
+  {
+    "id": "5000123",
+    "name": "Seattle Seahawks",
+    "team": "Seattle Seahawks",
+    "position": "DST"
+  },
+  {
+    "id": "5000173",
+    "name": "Tampa Bay Buccaneers",
+    "team": "Tampa Bay Buccaneers",
+    "position": "DST"
+  },
+  {
+    "id": "5000376",
+    "name": "Tennessee Titans",
+    "team": "Tennessee Titans",
+    "position": "DST"
+  },
+  {
+    "id": "5000272",
+    "name": "Washington Commanders",
+    "team": "Washington Commanders",
+    "position": "DST"
+  },
+  {
+    "id": "5000301",
+    "name": "Blake Grupe",
+    "team": "New Orleans Saints",
+    "position": "K"
+  },
+  {
+    "id": "5000113",
+    "name": "Brandon Aubrey",
+    "team": "Dallas Cowboys",
+    "position": "K"
+  },
+  {
+    "id": "5000269",
+    "name": "Brandon McManus",
+    "team": "Green Bay Packers",
+    "position": "K"
+  },
+  {
+    "id": "5000303",
+    "name": "Cairo Santos",
+    "team": "Chicago Bears",
+    "position": "K"
+  },
+  {
+    "id": "5000277",
+    "name": "Cam Little",
+    "team": "Jacksonville Jaguars",
+    "position": "K"
+  },
+  {
+    "id": "5000118",
+    "name": "Cameron Dicker",
+    "team": "Los Angeles Chargers",
+    "position": "K"
+  },
+  {
+    "id": "5000313",
+    "name": "Chad Ryland",
+    "team": "Arizona Cardinals",
+    "position": "K"
+  },
+  {
+    "id": "5000125",
+    "name": "Chase McLaughlin",
+    "team": "Tampa Bay Buccaneers",
+    "position": "K"
+  },
+  {
+    "id": "5000127",
+    "name": "Chris Boswell",
+    "team": "Pittsburgh Steelers",
+    "position": "K"
+  },
+  {
+    "id": "5000210",
+    "name": "Daniel Carlson",
+    "team": "Las Vegas Raiders",
+    "position": "K"
+  },
+  {
+    "id": "5000288",
+    "name": "Eddy Pineiro",
+    "team": "FA",
+    "position": "K"
+  },
+  {
+    "id": "5000136",
+    "name": "Evan McPherson",
+    "team": "Cincinnati Bengals",
+    "position": "K"
+  },
+  {
+    "id": "5000307",
+    "name": "Graham Gano",
+    "team": "New York Giants",
+    "position": "K"
+  },
+  {
+    "id": "5000134",
+    "name": "Harrison Butker",
+    "team": "Kansas City Chiefs",
+    "position": "K"
+  },
+  {
+    "id": "5000116",
+    "name": "Jake Bates",
+    "team": "Detroit Lions",
+    "position": "K"
+  },
+  {
+    "id": "5000141",
+    "name": "Jake Elliott",
+    "team": "Philadelphia Eagles",
+    "position": "K"
+  },
+  {
+    "id": "5000256",
+    "name": "Jake Moody",
+    "team": "San Francisco 49ers",
+    "position": "K"
+  },
+  {
+    "id": "5000239",
+    "name": "Jason Myers",
+    "team": "Seattle Seahawks",
+    "position": "K"
+  },
+  {
+    "id": "5000149",
+    "name": "Jason Sanders",
+    "team": "Miami Dolphins",
+    "position": "K"
+  },
+  {
+    "id": "5000180",
+    "name": "Joshua Karty",
+    "team": "Los Angeles Rams",
+    "position": "K"
+  },
+  {
+    "id": "5000254",
+    "name": "Justin Tucker",
+    "team": "FA",
+    "position": "K"
+  },
+  {
+    "id": "5000126",
+    "name": "Ka'imi Fairbairn",
+    "team": "Houston Texans",
+    "position": "K"
+  },
+  {
+    "id": "5000168",
+    "name": "Matt Gay",
+    "team": "Washington Commanders",
+    "position": "K"
+  },
+  {
+    "id": "5000294",
+    "name": "Matt Prater",
+    "team": "FA",
+    "position": "K"
+  },
+  {
+    "id": "5000321",
+    "name": "Nick Folk",
+    "team": "New York Jets",
+    "position": "K"
+  },
+  {
+    "id": "5000135",
+    "name": "Tyler Bass",
+    "team": "Buffalo Bills",
+    "position": "K"
+  },
+  {
+    "id": "5000232",
+    "name": "Tyler Loop",
+    "team": "Baltimore Ravens",
+    "position": "K"
+  },
+  {
+    "id": "5000122",
+    "name": "Wil Lutz",
+    "team": "Denver Broncos",
+    "position": "K"
+  },
+  {
+    "id": "5000225",
+    "name": "Will Reichard",
+    "team": "Minnesota Vikings",
+    "position": "K"
+  },
+  {
+    "id": "5000155",
+    "name": "Younghoe Koo",
+    "team": "Atlanta Falcons",
+    "position": "K"
+  }
+]
